@@ -20,10 +20,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to View solution](https://github.com/iyke-e/url-shortening-api)
+- Live Site URL: [view Live site](https://your-live-site-url.com)
 
-## My process
+
 
 ### Built with
 
@@ -38,7 +38,7 @@ Users should be able to:
 ## Author
 
 - Website - [iykeio](https://www.iykeio.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/iyke-e)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [iyke-e](https://www.frontendmentor.io/iyke-e)
+- Twitter - [@iyk3e](https://www.twitter.com/iyk3e)
 
 
