@@ -20,7 +20,7 @@
     --whitehsl: 0, 0%, 100%;
     --sidespaceMobile: 1.5rem;
     --sidespaceTablet: 4.0rem;
-    --sidespaceDesktop: 10.25rem;
+    --sidespaceDesktop: 6.25rem;
 }
 
 body {
@@ -557,7 +557,7 @@ footer {
 
 @media (min-width: 1200px) {
     h1 {
-        font-size: 4.75rem;
+        font-size: 4.5rem;
         & br {
             display: initial;
         }
