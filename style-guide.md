@@ -42,3 +42,11 @@ For the social icons, you can either use the SVGs provided or a font icon librar
 
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
+
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 992px) {}
+@media (min-width: 1200px) {}
